@@ -1,0 +1,13 @@
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\bin\Debug\netcoreapp2.1\ServiceBusSender.deps.json
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\bin\Debug\netcoreapp2.1\ServiceBusSender.runtimeconfig.json
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\bin\Debug\netcoreapp2.1\ServiceBusSender.runtimeconfig.dev.json
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\bin\Debug\netcoreapp2.1\ServiceBusSender.dll
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\bin\Debug\netcoreapp2.1\ServiceBusSender.pdb
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\obj\Debug\netcoreapp2.1\ServiceBusSender.csproj.AssemblyReference.cache
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\obj\Debug\netcoreapp2.1\ServiceBusSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\obj\Debug\netcoreapp2.1\ServiceBusSender.AssemblyInfoInputs.cache
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\obj\Debug\netcoreapp2.1\ServiceBusSender.AssemblyInfo.cs
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\obj\Debug\netcoreapp2.1\ServiceBusSender.csproj.CoreCompileInputs.cache
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\obj\Debug\netcoreapp2.1\ServiceBusSender.dll
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\obj\Debug\netcoreapp2.1\ServiceBusSender.pdb
+C:\Users\dhinckley\source\LinkedInLearning\Developer\ServiceBusSender\ServiceBusSender\obj\Debug\netcoreapp2.1\ServiceBusSender.genruntimeconfig.cache
